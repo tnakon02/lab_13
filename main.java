@@ -1,4 +1,4 @@
-public class SumOfDigits {
+public class main {
     public static int calculateSumOfDigits(int n) {
         while (n >= 10) {
             int sum = 0;
